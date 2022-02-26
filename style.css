@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.font {
+    font-family: 'Cinzel', serif;
+    font-size: 7em;
+    color: black;
+}
+
+.bg {
+    width: 400px;
+    height: 200px;
+}
+
+@media (max-width: 768px) {
+    .container {
+        width: 100%;
+    }
+}
+
+@media (max-width: 320px) {
+    .container {
+        width: 100%;
+    }
+}
+
+@media (max-width: 425px) {
+    .container {
+        width: 100%;
+    }
+}
+
+@media (max-width: 375px) {
+    .container {
+        width: 100%;
+    }
+}
+
+@media (max-width: 1024px) {
+    .container {
+        width: 100%;
+    }
+}
